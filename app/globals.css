@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  src: url("/fonts/Avenir LT Std 65 Medium.otf");
+  font-family: "Avenir LT Std 65 Medium";
+}
+
+footer {
+  font-family: "Avenir LT Std 65 Medium", Inter, sans-serif;
+}
