@@ -19,27 +19,27 @@ const footerLinks: {
     links: [
       {
         label: "Auto",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/particuliers/assurance-auto",
       },
       {
         label: "Habitation",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/particuliers/habitation/assurance-habitation",
       },
       {
         label: "Santé",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/particuliers/assurance-sante/complementaires-sante",
       },
       {
         label: "Accidents de la vie",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/particuliers/assurance-accident",
       },
       {
         label: "Assurance enseignant",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/particuliers/assurance-enseignant",
       },
       {
         label: "Assurance scolaire",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/informations-pratiques/espace-parents/assurance-scolaire",
       },
     ],
   },
@@ -48,23 +48,23 @@ const footerLinks: {
     links: [
       {
         label: "Enseignement privé",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/associations-institutions/enseignement-prive/mutuelle-enseignement-prive",
       },
       {
         label: "Instituts religieux",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/associations-institutions/instituts-religieux/mutuelle-institut-religieux",
       },
       {
         label: "Diocèses",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/associations-institutions/dioceses/mutuelle-diocese",
       },
       {
         label: "Sanitaire et social",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/associations-institutions/sanitaire-social/etablissement-medico-social",
       },
       {
         label: "Associations humanitaires et caritatives",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/associations-institutions/associations-humanitaires-et-caritatives/mutuelle-association",
       },
     ],
   },
@@ -73,19 +73,19 @@ const footerLinks: {
     links: [
       {
         label: "Qui sommes-nous ?",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/saint-christophe/identite/qui-sommes-nous",
       },
       {
         label: "Organisation",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/saint-christophe/organisation/organisation-mutualiste",
       },
       {
         label: "Partenaires",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/saint-christophe/partenaires",
       },
       {
         label: "Actualités",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/saint-christophe/actualites",
       },
     ],
   },
@@ -98,15 +98,15 @@ const footerLinks: {
       },
       {
         label: "Nous contacter",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/page-contact",
       },
       {
         label: "Réclamations",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/informations-pratiques/reclamations",
       },
       {
         label: "Vos questions, nos réponses",
-        href: "#",
+        href: "https://www.saint-christophe-assurances.fr/informations-pratiques/FAQ",
       },
     ],
   },
